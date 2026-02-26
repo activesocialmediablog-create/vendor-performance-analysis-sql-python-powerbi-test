@@ -160,7 +160,7 @@ Data Analyst
 📧 Email: techclasses0810@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-mishra-30813b174/)  
 🔗 [Portfolio](https://www.youtube.com/@techclasses0810/)
-🔗 [Portfolio2](https://activesocialmediablog-create.github.io/healthcare/)
-🔗 [PortfolioYouTube](https://www.youtube.com/)
+🔗 [Portfolio2](https://activesocialmediablog-create.github.io/healthcare/ target="_blank")
+🔗 [PortfolioYouTube](https://www.youtube.com/ target="_blank") 
 
 
